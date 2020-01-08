@@ -46,7 +46,7 @@ class Shoe
   end 
 end
 
-Shoe.condition("new")
+Shoe.condition
 
 
 
